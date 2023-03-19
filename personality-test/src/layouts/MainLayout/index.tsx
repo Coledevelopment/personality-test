@@ -1,6 +1,5 @@
 import styles from "./styles.module.css";
 import Title from "../../components/Title";
-import Text from "../../components/Text";
 
 interface MainLayoutProps {
   children: React.ReactNode;

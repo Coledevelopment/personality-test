@@ -1,0 +1,21 @@
+{
+  "questions": {
+    "introvert": [
+      "I find it difficult to approach others",
+      "I am afraid to draw attention to myself",
+      "I prefer to be alone",
+      "I keep others at a distance",
+      "I avoid crowds",
+      "I take care not to interrupt people who speak"
+    ],
+    "extrovert": [
+      "I make friends easily",
+      "I really enjoy large parties and gatherings",
+      "I like to take charge of situations and events",
+      "I am very spontaneous - I act without thinking",
+      "I always chat to lots of different people at parties",
+      "I act without thinking",
+      " I feel energized after attending a gathering or event"
+    ]
+  }
+}
