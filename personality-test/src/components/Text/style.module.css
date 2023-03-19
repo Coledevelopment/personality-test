@@ -1,0 +1,13 @@
+text {
+  font-family: var(--ff-Montserrat);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #000;
+}
+
+b,
+bold {
+  font-weight: bold;
+}
